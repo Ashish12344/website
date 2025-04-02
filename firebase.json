@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "mainsite",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
