@@ -1,6 +1,8 @@
 # DesignConnectify 🌐✨
 *Affordable, Beautiful Websites for Startups & Small Businesses*
 
+mainsite.zip has the main web files
+
 ## ⚠️ Important Security Notice
 **Google Safe Browsing Warning**: As of July 2024, some browsers may show a "Dangerous Site" warning for our domain. This is a **false positive** - our website contains no malicious content, phishing attempts, or security threats.
 
